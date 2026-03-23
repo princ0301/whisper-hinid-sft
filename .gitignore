@@ -1,0 +1,10 @@
+data/FT Data - data.csv
+data/Question 4 - Task.csv
+gradio_templates/
+outputs/q1/audio_16k/
+outputs/q1/checkpoints/
+outputs/q1/chunks/
+outputs/q1/model/
+outputs/q1/transcriptions/
+outputs/q2/raw_asr/
+streamlit_templates/

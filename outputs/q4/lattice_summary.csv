@@ -1,0 +1,7 @@
+model,std_wer,lattice_wer,reduction,n_improved
+Model H,0.0398,0.0141,0.0256,14
+Model i,0.0409,0.0,0.0409,18
+Model k,0.1647,0.033,0.1317,39
+Model l,0.1132,0.0267,0.0866,30
+Model m,0.2162,0.0408,0.1754,39
+Model n,0.1098,0.0269,0.083,28
