@@ -22,3 +22,8 @@ git rm -r --cached .cursor-server
 git rm -r --cached .vscode
 git rm -r --cached .windsurf
 git rm -r --cached .windsurf-server
+git add .
+git commit -m "whisper hindi sft"
+git push origin main
+git status
+git status

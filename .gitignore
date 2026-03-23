@@ -8,3 +8,9 @@ outputs/q1/model/
 outputs/q1/transcriptions/
 outputs/q2/raw_asr/
 streamlit_templates/
+.cursor-server/
+.vscode/
+.windsurf/
+.cursor-server/
+.vscode/
+.windsurf/
