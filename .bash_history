@@ -14,3 +14,11 @@ git rm -r --cached data/FT\ Data\ -\ data.csv
 git init
 git ststus
 git status
+git add .
+git status
+git commit -m "whisper sft"
+git push origin main
+git rm -r --cached .cursor-server
+git rm -r --cached .vscode
+git rm -r --cached .windsurf
+git rm -r --cached .windsurf-server
